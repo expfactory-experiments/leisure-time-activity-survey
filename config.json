@@ -1,0 +1,17 @@
+{
+    "name": "L-Cat: The Stanford Leisure-Time Activity Categorical Item Survey",
+    "template":"survey",
+    "exp_id": "leisure-time-activity-survey",
+    "cognitive_atlas_task_id": "trm_56aaa613f0c1a",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "reference": ["http://www.ncbi.nlm.nih.gov/pubmed/23588625"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
