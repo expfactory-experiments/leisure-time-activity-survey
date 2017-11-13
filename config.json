@@ -2,6 +2,7 @@
     "name": "L-Cat: The Stanford Leisure-Time Activity Categorical Item Survey",
     "template":"survey",
     "exp_id": "leisure-time-activity-survey",
+    "url": "https://github.com/expfactory-experiments/leisure-time-activity-survey",
     "cognitive_atlas_task_id": "trm_56aaa613f0c1a",
     "contributors": [
              "Zeynep Enkavi",
